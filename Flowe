@@ -9,7 +9,7 @@
     <title>Flower</title>
   </head>
   <body class="container">
-    <audio src="sound/Lady Gaga, Bruno Mars - Die With A Smile (Lyrics).mp3" autoplay></audio>
+    <audio src="sound/Melting - Cuco (Lyrics).mp3" autoplay></audio>
     <div id="lyrics">
      
     </div>
